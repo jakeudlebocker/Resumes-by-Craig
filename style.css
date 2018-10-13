@@ -1,23 +1,25 @@
 body{
   background-image: linear-gradient(90deg, #3366cc, #ffffff);
 }
+
 #container {
   background-color: #3366cc;
-  min-height: 300px;
+  min-height: 200px;
   padding: 20px;
   border-width: 10px;
   border-style:inset;
   border-color: #003399;
   margin: 20px auto:
-  width: 90%;
+  width: 75%;
 }
 
   header h1{
   color: white;
   text-align: center;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Chakra Petch', sans-serif;
   font-size: 120px;
 }
+
 nav ul{
   list-style: none;
   background-color: #669999;
