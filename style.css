@@ -16,7 +16,7 @@ body{
   header h1{
   color: white;
   text-align: center;
-  font-family: 'Chakra Petch', sans-serif;
+  font-family: 'Bevan', cursive;
   font-size: 120px;
 }
 
@@ -33,6 +33,7 @@ nav li{
 display: inline-block;
 border-left: 5px solid white;
 padding: 10px;
+font-family: 'Chakra Petch', sans-serif;
 font-size: 16px;
 
 }
