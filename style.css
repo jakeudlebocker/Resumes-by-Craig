@@ -52,8 +52,12 @@ nav a {
 nav a:hover{
 background-color: gray;
 }
-main img {width: 500px  }
+main img {
+  width: 500px; float:left;
+ }
+
 #container1 {
+<<<<<<< HEAD
   background-color: #3366cc;
   min-height: 200px;
   padding: 20px;
@@ -66,4 +70,10 @@ main::after {
     content: "";
     clear: both;
     display: table;
+=======
+
+  background-color: #3366cc; padding:40px;margin-left: 550PX
+
+
+>>>>>>> e6899f6b0692cbcb731bdfff0b689b92b106f06a
 }
