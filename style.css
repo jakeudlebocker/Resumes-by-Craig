@@ -61,3 +61,9 @@ main img {width: 500px  }
   border-style:inset;
   border-color: #003399;
   margin: 20px; float:right;
+}
+main::after {
+    content: "";
+    clear: both;
+    display: table;
+}
