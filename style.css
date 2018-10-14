@@ -52,3 +52,12 @@ nav a {
 nav a:hover{
 background-color: gray;
 }
+main img {width: 500px  }
+#container1 {
+  background-color: #3366cc;
+  min-height: 200px;
+  padding: 20px;
+  border-width: 10px;
+  border-style:inset;
+  border-color: #003399;
+  margin: 20px; float:right;
